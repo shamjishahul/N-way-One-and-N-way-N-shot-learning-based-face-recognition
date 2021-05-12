@@ -30,7 +30,8 @@ e-mail: cet@fei.edu.br
 
 
 Train and Validation folder structure :
-        Train Folder :{ Total 90 classes 20 shots }
+              
+         Train Folder :{ Total 90 classes 20 shots }
               ORL(1) :  10 Person -----> 20 Images each 
               ORL(2) :  10 Person -----> 20 Images each
               ORL(3) :  10 Person -----> 20 Images each 
@@ -40,8 +41,8 @@ Train and Validation folder structure :
               FEI(1) :  10 Person -----> 20 Images each 
               FEI(2) :  10 Person -----> 20 Images each
               MIT(1) :  10 Person -----> 20 Images each
-              
-        Val Folder :{ Total 40 classes 20 shots }
+         
+         Val Folder :{ Total 40 classes 20 shots }
               ORL(1) :  10 Person -----> 20 Images each 
               ORL(2) :  10 Person -----> 20 Images each
               FEI(1) :  10 Person -----> 20 Images each 
